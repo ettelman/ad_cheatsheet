@@ -1,6 +1,5 @@
 # Active Directory Cheat sheet - ITHS2023
 
-A comprehensive collection of commands and tools for performing penetration testing in Active Directory (AD) environments. This toolkit focuses on reconnaissance, enumeration, and exploitation techniques, providing practical examples and usage instructions.
 
 ## Table of Contents
 
@@ -14,7 +13,7 @@ A comprehensive collection of commands and tools for performing penetration test
 - [Resources](#resources)
 
 ## Overview
-This repository provides a categorized list of tools and commands for AD penetration testing. It includes techniques for reconnaissance, enumeration, and various exploitation methods, such as Kerberoasting and ASREPRoasting.
+More to come...
 
 ## Reconnaissance
 
