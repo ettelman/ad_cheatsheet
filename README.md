@@ -141,6 +141,3 @@ More to come...
 
 ---
 
-### Feedback
-Contributions, corrections, or improvements are welcome. Please create a pull request or open an issue on this repository.
-
