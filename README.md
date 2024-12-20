@@ -137,7 +137,7 @@ More to come...
 - [Impacket GitHub Repository](https://github.com/SecureAuthCorp/impacket)
 - [Hashcat Official Website](https://hashcat.net/hashcat/)
 - [Nmap Official Documentation](https://nmap.org/docs.html)
-- [enum4linux GitHub Repository](https://github.com/Carnal0wnage/enum4linux)
+- [enum4linux GitHub Repository](https://github.com/CiscoCXSecurity/enum4linux)
 
 ---
 
